@@ -1,0 +1,16 @@
+int A,B,C = -10;
+//int D = 5;
+int pedro [] = [1,2,3,4,5];
+int  juan [][] = [[1,2,3],[4,5,6],[7,8,9+5+A]];
+int  cuatro [] = new int[4];
+int  cinco [][] = new int [5][3];
+int dildo = A+B+C;
+//B = 14+-2+C;
+//B++;
+//exito
+print("hola mundo");
+print("es hora de mostrarlo todo");
+print("esta es la variable A: "+A);
+print("esta es una suma");
+print(A*B);
+print(pedro);
